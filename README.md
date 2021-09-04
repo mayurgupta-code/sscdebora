@@ -1,6 +1,6 @@
 ### Hi there,  can you call me Debs!
  
--	Sou desenvolvedora fullstack Java júnior
+-I'm developer fullstack Java
 
  <div>
   <a href="https://github.com/sscdebora">
